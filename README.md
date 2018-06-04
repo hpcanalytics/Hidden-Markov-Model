@@ -1,5 +1,5 @@
-# Hidden-Markov-Model  
-Hidden-Markov-Model
+# Hidden Markov Model  
+Hidden Markov Model
 SPIDAL Image Processing and Optimization Library  
 A Hidden Markov Model is often used for sequential data, such as observations over time, the words of a sentence, etc, when connections are expected between the observations of the sequence (e.g., that variable values change relatively "smoothly" over time). 
 
