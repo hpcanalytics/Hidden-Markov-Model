@@ -2,6 +2,7 @@
 Markov Chain Monte Carlo (MCMC) is an approximate inference technique that can be applied on any probabilistic graphical model. The most common variant, and the one implemented in SPIDAL, is called Gibbs Sampling. 
 
 # Exemplar application
+[Project:Ice sheet layer finding with confidence estimation](http://vision.soic.indiana.edu/papers/icelayers2014icip.pdf) is one case of using mcmc to solve a real problem.
 ![Exemplar application](https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/icelayers2014icip-thumb.png)  
-[Project:Ice sheet layer finding with confidence estimation](http://vision.soic.indiana.edu/projects/icelayers/) is one case of using mcmc to solve a real problem.
+
 
