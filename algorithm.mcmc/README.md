@@ -37,9 +37,9 @@ requires some hacking; compiling under Windows probably requires more hacking.
 To compile, simply run "make".
 
 To run:
-
+```
 ./MCMC input.png output.png
-
+```
 The output shows the estimated bedrock and ice surface boundaries. For each
 boundary, we show the expected location as well as 95% confidence intervals
 on either side, which give a measure of uncertainty. Please see our paper above
@@ -48,7 +48,7 @@ for more details.
 We have included some sample images in the sample-images directory.
 
 Other compile options:
-
+```
 make mcmc (produces non-optimized code that may possibly be more accurate)
 
 make debug (produces non-optimized code like above but also outputs images in the run folder every 100 iterations showing state of sampler)
@@ -56,3 +56,4 @@ make debug (produces non-optimized code like above but also outputs images in th
 make clean (removes generated executables)
 
 make mex (version for Matlab integration)
+```
