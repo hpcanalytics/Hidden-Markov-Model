@@ -11,7 +11,18 @@ Here we describe the theory behind HMMs, as well as some example applications. O
 
 
 
+#
 
+
+
+#
+
+
+
+#
+
+
+#
 
 
 
