@@ -45,17 +45,7 @@ width="240" height="180" border="10" /></a>
 
 
 
-## Algorithms
 
-### Viterbi algorithm
-
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=aRyxZde7VxE" target="_blank"><img src="http://img.youtube.com/vi/aRyxZde7VxE/0.jpg" 
-width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Igd1731a7Ak" target="_blank"><img src="http://img.youtube.com/vi/Igd1731a7Ak/0.jpg" 
-width="240" height="180" border="10" /></a>
 
 
 
