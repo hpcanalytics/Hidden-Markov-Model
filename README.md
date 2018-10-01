@@ -12,17 +12,17 @@ Here we describe the theory behind HMMs, as well as some sample applications. Of
 
 ### Background: Markov Chains
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=kpz28cggDy8
-" target="_blank"><img src="http://img.youtube.com/vi/kpz28cggDy8/1.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/kpz28cggDy8/0.jpg" 
 width="240" height="180" border="10" /></a>
 
 ### Markov Chain Examples
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IIXR1-iDHNU
-" target="_blank"><img src="http://img.youtube.com/vi/IIXR1-iDHNU/1.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/IIXR1-iDHNU/0.jpg" 
 width="240" height="180" border="10" /></a>
 
 ### Hidden Markov Models
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oGqp_fAv5S8
-" target="_blank"><img src="http://img.youtube.com/vi/oGqp_fAv5S8/1.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/oGqp_fAv5S8/0.jpg" 
 width="240" height="180" border="10" /></a>
 
 
@@ -30,17 +30,17 @@ width="240" height="180" border="10" /></a>
 ## Examples
 
 ### Turbo codes, Natural Language Processing
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WSrIjkOtg7g" target="_blank"><img src="http://img.youtube.com/vi/WSrIjkOtg7g/1.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WSrIjkOtg7g" target="_blank"><img src="http://img.youtube.com/vi/WSrIjkOtg7g/0.jpg" 
 width="240" height="180" border="10" /></a>
 
 
 ### Part-of-speech tagging, Temporal popularity modeling
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=qeVbSsx67ps" target="_blank"><img src="http://img.youtube.com/vi/qeVbSsx67ps/1.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qeVbSsx67ps" target="_blank"><img src="http://img.youtube.com/vi/qeVbSsx67ps/0.jpg" 
 width="240" height="180" border="10" /></a>
 
 
 ### Scene recognition
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=u-8J2uEMeyM" target="_blank"><img src="http://img.youtube.com/vi/u-8J2uEMeyM/1.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=u-8J2uEMeyM" target="_blank"><img src="http://img.youtube.com/vi/u-8J2uEMeyM/0.jpg" 
 width="240" height="180" border="10" /></a>
 
 
