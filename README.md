@@ -18,7 +18,10 @@ style="background-image: url('http://wptf.com/wp-content/uploads/2014/05/play-bu
   background-size: 50px 50px;
   background-position: center; 
   background-repeat: no-repeat;
-  background-color: black;">
+  background-color: black;opacity: 0;
+  position: absolute; z-index: 1;
+  top: 0;
+  width: 192px; height: 109px;">
 
 ### Markov Chain Examples
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IIXR1-iDHNU
