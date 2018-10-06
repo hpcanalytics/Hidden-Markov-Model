@@ -22,6 +22,8 @@ style="background-image: url('http://wptf.com/wp-content/uploads/2014/05/play-bu
   position: absolute; z-index: 1;
   top: 0;
   width: 192px; height: 109px;">
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kpz28cggDy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Markov Chain Examples
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IIXR1-iDHNU
