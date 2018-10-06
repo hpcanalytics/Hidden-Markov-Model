@@ -13,17 +13,7 @@ Here we describe the theory behind HMMs, as well as some sample applications. Of
 ### Background: Markov Chains
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=kpz28cggDy8
 " target="_blank"><img src="http://img.youtube.com/vi/kpz28cggDy8/0.jpg" 
-width="240" height="180" border="10"
-style="background-image: url('http://wptf.com/wp-content/uploads/2014/05/play-button.png');
-  background-size: 50px 50px;
-  background-position: center; 
-  background-repeat: no-repeat;
-  background-color: black;opacity: 0;
-  position: absolute; z-index: 1;
-  top: 0;
-  width: 192px; height: 109px;">
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kpz28cggDy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+width="240" height="180" border="10">
 
 ### Markov Chain Examples
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IIXR1-iDHNU
