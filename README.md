@@ -11,9 +11,9 @@ Here we describe the theory behind HMMs, as well as some sample applications. Of
 ## Theory behind HMMs
 
 ### Background: Markov Chains
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kpz28cggDy8
-" target="_blank"><img src="http://img.youtube.com/vi/kpz28cggDy8/0.jpg" 
-width="240" height="180" border="10">
+
+[![Watch the video](https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/Background-Markov%20Chains.png)](http://www.youtube.com/watch?feature=player_embedded&v=kpz28cggDy8)
+
 
 ### Markov Chain Examples
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IIXR1-iDHNU
