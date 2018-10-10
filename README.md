@@ -17,31 +17,31 @@ width="340" height="200" border="10" /></a>
 
 ### Markov Chain Examples
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IIXR1-iDHNU
-" target="_blank"><img src="http://img.youtube.com/vi/IIXR1-iDHNU/0.jpg" 
-width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/Markov%20Chain%20Examples.png" 
+width="340" height="200" border="10" /></a>
 
 ### Hidden Markov Models
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oGqp_fAv5S8
-" target="_blank"><img src="http://img.youtube.com/vi/oGqp_fAv5S8/0.jpg" 
-width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/Hidden%20Markov%20Models.png" 
+width="340" height="200" border="10" /></a>
 
 
 
 ## Examples
 
 ### Turbo codes, Natural Language Processing
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WSrIjkOtg7g" target="_blank"><img src="http://img.youtube.com/vi/WSrIjkOtg7g/0.jpg" 
-width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WSrIjkOtg7g" target="_blank"><img src="https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/Turbo%20codes%2C%20Natural%20Language%20Processing.png" 
+width="340" height="200" border="10" /></a>
 
 
 ### Part-of-speech tagging, Temporal popularity modeling
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=qeVbSsx67ps" target="_blank"><img src="http://img.youtube.com/vi/qeVbSsx67ps/0.jpg" 
-width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qeVbSsx67ps" target="_blank"><img src="https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/Part-of-speech%20tagging%2C%20Temporal%20popularity%20modeling9.png" 
+width="340" height="200" border="10" /></a>
 
 
 ### Scene recognition
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=u-8J2uEMeyM" target="_blank"><img src="http://img.youtube.com/vi/u-8J2uEMeyM/0.jpg" 
-width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=u-8J2uEMeyM" target="_blank"><img src="https://github.com/hpcanalytics/Hidden-Markov-Model/blob/master/resource/Scene%20recognition.png" 
+width="340" height="200" border="10" /></a>
 
 
 
